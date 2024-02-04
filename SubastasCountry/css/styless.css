@@ -1,0 +1,50 @@
+
+
+
+.boton1 {
+    background-color:;
+    color: white;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 0px;
+    text-align: center;
+    width: px;
+    text-decoration: none;
+}
+
+.descripcion {
+    display: inline-block;
+    width: 33%;
+    background-color: gainsboro;
+    position: relative;
+    text-align: center;
+    left: 13%;
+    margin: auto;
+    height: 335px
+}
+
+.titulo {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: in;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.GUARDAR {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.categorias {
+    color: black;
+    display: inline-block;
+    padding: 10px 0px;
+    text-decoration: none;
+    position: relative;
+    width: 83%;
+    left: 1px;
+}
